@@ -1,0 +1,121 @@
+# ==============================
+
+# Python
+
+# ==============================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# ==============================
+
+# Virtual Environment
+
+# ==============================
+
+venv/
+env/
+.venv/
+ENV/
+
+# ==============================
+
+# IDE
+
+# ==============================
+
+.vscode/
+.idea/
+*.iml
+
+# ==============================
+
+# Operating System
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+
+# Python Testing / Cache
+
+# ==============================
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ==============================
+
+# Jupyter Notebook
+
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+
+# Logs
+
+# ==============================
+
+*.log
+
+# ==============================
+
+# Environment / Secrets
+
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+credentials.json
+secrets.json
+
+# ==============================
+
+# Generated Model Files
+
+# ==============================
+
+*.pkl
+*.pickle
+*.joblib
+*.model
+
+# ==============================
+
+# Generated Results
+
+# ==============================
+
+results/*.csv
+results/*.json
+
+# ==============================
+
+# Temporary Files
+
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+
+# ==============================
+
+# Generated Charts
+
+# ==============================
+
+results/*.png
+results/*.jpg
+results/*.jpeg
